@@ -27,4 +27,3 @@ function Greet(name = 'there') {
 
     }
 }
-console.log(Greet(['s', 's']));
